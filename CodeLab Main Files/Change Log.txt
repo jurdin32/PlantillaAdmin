@@ -1,0 +1,29 @@
+
+Project: CodeLab - Bootstrap 4 Responsive Admin Template
+Author: VectorLab
+Web: http://thevectorlab.net
+
+
+version: 1.0
+==================
+
+- Initial Release 
+
+
+
+
+version: 1.1
+==================
+
+New: Mail Inbox Page
+New: Email Template
+
+Improvement: Top navigation responsiveness 
+
+
+version: 1.2
+==================
+
+Upgrade: Bootstrap 4.2.1
+New: Left Sidebar NiceScroll Added
+Fixed: Custom file input show filename
